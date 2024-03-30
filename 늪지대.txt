@@ -1,0 +1,9 @@
+------------------------------------
+반복/항상 execute as @a at @s if block ~~-0.0001~ run tp @s ~~-0.0001~
+
+체인/항상 execute as @a at @s if block ~~~ tp @s ~~-0.0001~
+
+체인/항상 execute as @a at @s if block ~~-0.0001~ run gamemode a
+
+체인/항상 execute as @a at @s if block ~~-0.0001~ run deop @s
+------------------------------------
