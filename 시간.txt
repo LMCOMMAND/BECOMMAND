@@ -15,5 +15,5 @@
 
 체인/항상 scoreboard players set @a[scores={m=60}] m 0
 ------------------------------------
-execute as @a run titleraw @s actionbar{"rawtext":[{"text":"\n§a플레이타임 §f: "},{"score":{"name":"*","objective":"h"}},{"text":"시간 "},{"score":{"name":"*","objective":"m"}},{"text":"분 "},{"score":{"name":"*","objective":"s"}},{"text":"초"}]}
+execute as @a run titleraw @s actionbar{"rawtext":[{"text":"§a플레이타임 §f: "},{"score":{"name":"*","objective":"h"}},{"text":"시간 "},{"score":{"name":"*","objective":"m"}},{"text":"분 "},{"score":{"name":"*","objective":"s"}},{"text":"초"}]}
 ------------------------------------
