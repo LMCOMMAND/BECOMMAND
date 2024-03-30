@@ -1,9 +1,9 @@
 ------------------------------------
-반복/항상 execute as @a at @s if block ~~-0.0001~ run tp @s ~~-0.0001~
+반복/항상 execute as @a at @s if block soul_sand ~~-0.0001~ run tp @s ~~-0.0001~
 
-체인/항상 execute as @a at @s if block ~~~ tp @s ~~-0.0001~
+체인/항상 execute as @a at @s if block ~~~ soul_sand tp @s ~~-0.0001~
 
-체인/항상 execute as @a at @s if block ~~-0.0001~ run gamemode a
+체인/항상 execute as @a at @s if block ~~-0.0001~ soul_sand run gamemode a
 
-체인/항상 execute as @a at @s if block ~~-0.0001~ run deop @s
+체인/항상 execute as @a at @s if block ~~-0.0001~ soul_sand run deop @s
 ------------------------------------
